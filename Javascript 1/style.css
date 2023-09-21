@@ -1,0 +1,10 @@
+body {
+    background: rgb(0, 0, 0);
+    font-family: Helvetica;
+    max-width: 900px;
+    margin: auto;
+}
+
+.h1 {
+    color: #00ff00;
+}
