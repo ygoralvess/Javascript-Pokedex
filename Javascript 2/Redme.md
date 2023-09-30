@@ -9,4 +9,4 @@
 ## Mobile First
     Vamos começar fazendo a parte mobile primeiro e depois adaptamos para computadores.
 
-Parei em 4:35
+Fetch API e Poke API
